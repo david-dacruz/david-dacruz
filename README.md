@@ -1,6 +1,6 @@
 Hi, I'm David 👋
 
-Fullstack dev of 5+ years of experience that transitioned to Web3. 
+Fullstack dev with 5+ years of experience that transitioned to Web3. 
 
 Web2 - Fullstack web dev and devops for websites with large traffic and data.
 
