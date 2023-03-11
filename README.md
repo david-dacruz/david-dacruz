@@ -9,6 +9,6 @@ Web3 - Minting dapps, smart contract development and auditing in Solidity with a
 #### Social:
 - [Twitter](https://twitter.com/dadev42)
 
-[![Gjaldon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=david-dacruz&count_private=true&show_icons=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=david-dacruz&count_private=true&show_icons=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=david-dacruz&layout=compact&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
