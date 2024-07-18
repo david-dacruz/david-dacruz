@@ -1,17 +1,31 @@
-Hey 👋 
-
-I'm David aka Dadev 
-
-Fullstack dev with 5+ years of experience that transitioned to Web3. 
-
-#### Web2 
-
-Fullstack web dev and devops for websites with large traffic and data.
+Fullstack dev that transitioned to Web3 in 2021 
 
 #### Web3 
 
-Minting dapps, smart contract development and auditing in Solidity with a focus on NFTs.
+BTC ordinals and runes
+- Ordinal games
+- PSBT and UTXO development
+- Airdrops
+- Recursive inscriptions
+- Snapshots
 
-#### Reach out to me:
+EVM
+- Solidity
+- ERC20 
+- ERC1155
+- ERC721
+- Staking
+- Minting
+- Auditing
+
+SOL
+- Rust
+- Anchor
+- SPL
+- TOKEN2022
+- Snapshots
+- Integrations
+
+#### Reach out
 
 [Twitter](https://twitter.com/dadev42)
