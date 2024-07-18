@@ -21,7 +21,7 @@ EVM
 SOL
 - Rust
 - Anchor
-- SPL
+- SPL Token
 - TOKEN2022
 - Snapshots
 - Integrations
