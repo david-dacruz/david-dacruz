@@ -28,4 +28,4 @@ SOL
 
 #### Reach out
 
-[Twitter](https://twitter.com/dadev42)
+[Book a meeting](https://zcal.co/web3/intro)
