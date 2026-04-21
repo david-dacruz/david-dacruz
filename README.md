@@ -25,6 +25,12 @@ Independent engineer building fixed-price, fixed-timeline products on your stack
 
 ![Contribution activity](https://github-readme-activity-graph.vercel.app/graph?username=david-dacruz&theme=github-compact&hide_border=true)
 
+### Recent GitHub activity
+
+<!--START_SECTION:activity-->
+- Automation will populate this section with recent public GitHub activity.
+<!--END_SECTION:activity-->
+
 ### What I ship
 
 | # | Offer | Price | Timeline |
