@@ -24,14 +24,6 @@ Independent engineer building production software, AI workflows, and Bitcoin-nat
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Trust
-
-![Production Software](https://img.shields.io/badge/Production%20Software-shipped-111111?style=for-the-badge)
-![AI Automation](https://img.shields.io/badge/AI%20Automation-live%20workflows-111111?style=for-the-badge)
-![Bitcoin Engineering](https://img.shields.io/badge/Bitcoin-Ordinals%20%2B%20Runes-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
-![Fractional CTO](https://img.shields.io/badge/Fractional%20CTO-technical%20leadership-111111?style=for-the-badge)
-![EU Based](https://img.shields.io/badge/EU%20Based-Ericeira%2C%20Portugal-003399?style=for-the-badge)
-
 ### Focus
 
 - AI automation and agent workflows
